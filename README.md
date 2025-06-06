@@ -202,25 +202,6 @@ We maintain official SDKs for:
 - JavaScript/TypeScript: [polarsource/polar-js](https://github.com/polarsource/polar-js)
 - Python: [polarsource/polar-python](https://github.com/polarsource/polar-python)
 
-## 🗺️ Roadmap & Community
-
-- **🎯 Upcoming milestones**: [Check out what we're building towards](https://github.com/polarsource/polar/issues/3242)
-- **💬 Shape the future of Polar**: [Join our Discord](https://discord.gg/Pnhfz3UThd)
-- **🐛 Found a bug?** [Submit it here](https://github.com/polarsource/polar/issues)
-- **🔓 Security vulnerabilities**: We appreciate responsible and private disclosures. See [Security](./SECURITY.md)
-
-## 👥 Contributors
-
-<a href="https://github.com/polarsource/polar/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=polarsource/polar" />
-</a>
-
 ## 📜 License
 
 Licensed under [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0).
-
-## 🙏 Acknowledgements
-
-<sub>♥️ To our `pyproject.toml` friends: [FastAPI](https://github.com/tiangolo/fastapi), [Pydantic](https://github.com/pydantic/pydantic), [Arq](https://github.com/samuelcolvin/arq), [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy), [Githubkit](https://github.com/yanyongyu/githubkit), [sse-starlette](https://github.com/sysid/sse-starlette), [Uvicorn](https://github.com/encode/uvicorn), [httpx-oauth](https://github.com/frankie567/httpx-oauth), [jinja](https://github.com/pallets/jinja), [blinker](https://github.com/pallets-eco/blinker), [pyjwt](https://github.com/jpadilla/pyjwt), [Sentry](https://github.com/getsentry/sentry) + more</sub><br />
-<sub>♥️ To our `package.json` friends: [Next.js](https://github.com/vercel/next.js/), [TanStack Query](https://github.com/TanStack/query), [tailwindcss](https://github.com/tailwindlabs/tailwindcss), [zustand](https://github.com/pmndrs/zustand), [openapi-typescript-codegen](https://github.com/ferdikoomen/openapi-typescript-codegen), [axios](https://github.com/axios/axios), [radix-ui](https://github.com/radix-ui/primitives), [cmdk](https://github.com/pacocoursey/cmdk), [framer-motion](https://github.com/framer/motion) + more</sub><br />
-<sub>♥️ To [IPinfo](https://ipinfo.io) that provides IP address data to help us geolocate customers during checkout.</sub>
